@@ -7,7 +7,6 @@ Each program focuses on **one OOP concept** to help students understand Java OOP
 ---
 
 ## 📌 OOPs Concepts Covered
-
 ### 🔹 Core OOPs
 - Class & Object
 - Encapsulation
@@ -77,13 +76,19 @@ java FileName
 
 ---
 
-## 🧑‍💻 Author
+## 👨‍💻 Author & Contributors
+<a href="https://github.com/gitKeshav11/Sanatan_Food-Full_Stack_Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/Sanatan_Food-Full_Stack_Project" />
+</a>
 
-Keshav Upadhyay  
-Java Backend Developer  
+## 📞 Contact
 
-📧 Email: keshavupadhyayje@gmail.com  
-🔗 GitHub: https://github.com/gitKeshav11  
+### **Keshav Upadhyay**  
+**Role:** Backend Developer (Java & Spring Boot)  
+📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
+🔗 LinkedIn: [Keshav Upadhyay](https://www.linkedin.com/in/keshavupadhyayje/)  
+🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)  
+
 
 ---
 
